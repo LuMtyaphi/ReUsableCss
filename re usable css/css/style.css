@@ -1,0 +1,47 @@
+body {
+  background-color: yellow;
+}
+.top-top {
+  padding-left: 100px;
+  padding-top: 70px;
+}
+.primary-button {
+  background-color: #ffffff;
+  border-radius: 10px;
+  color: #0075c9;
+  padding: 10px 30px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+.title-text {
+  color: #237ab9;
+  font-family: Roboto-Bold;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 20px;
+}
+.gradient-background {
+  background: linear-gradient(119.57deg, #0075c9 -0.45%, #76c2b6 100%);
+  width: 100%;
+  height: 400px;
+}
+.mid-section {
+  padding: 30px;
+  background: #f3f5f7;
+  display: block;
+  align-content: center;
+}
+.profile-img {
+  position: absolute;
+  left: 50%;
+  top: 15%;
+  width: 43%;
+  height: auto;
+  overflow: hidden;
+  z-index: 1;
+}
